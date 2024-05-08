@@ -1,0 +1,14 @@
+body{
+    background-image: url(Img/inacap-sede-sppaz-contacto-2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#Comentario{
+    resize: none;
+}
+
+.centrado{
+    text-align: center;
+    vertical-align: middle;
+}
